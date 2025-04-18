@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left">Hi my name is Lauren! 👋<br><br>I'm a third-year Software Engineering student attending the University of Ottawa. Starting as a designer, I have a full passion for full-stack, mobile, and embedded development. I also still design for communities on Dribble, Figma, Behance, and LottieFiles. <br><br>Co-Director of uOttaHack - allowing students to be empowered through technology and fueling their talents one event at a time. <br><br>Come connect with me!</p>
+<p align="left">Hi my name is Lauren! 👋<br><br>I'm a third-year Software Engineering student attending the University of Ottawa. Starting as a designer, I have a full passion for full-stack, mobile, and embedded development. I also still design for communities on Dribble, Figma, Behance, and LottieFiles. <br><br>Come connect with me!</p>
 
 ###
 
