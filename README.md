@@ -8,7 +8,7 @@ My name is Lauren! I'm a fourth-year software engineering student attending uOtt
  - VP Development (Web Development & Media Design) at Women in Science and Engineering, uOttawa Chapter
  - Software Sub-Team Lead for uOBionics, JMTS Bio-medical & mechanical competition team
  - Active contributor for Dribble, Motion Graphics @Lottie Files, and Translation @Mozilla
- - Prev. Developer and Project Manager Intern @ Giatec, Motorola Solutions, Solace, and the Government of Canada
+ - Prev. Developer and Project Manager Intern @ Giatec Scientific Inc., Motorola Solutions, Solace, and the Government of Canada
 
 ###
 
