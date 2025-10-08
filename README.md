@@ -5,8 +5,9 @@ My name is Lauren! I'm a fourth-year software engineering student attending uOtt
 -  Prev-Director at [**uOttaHack**](https://uottahack.ca), Ottawa’s largest student-led hackathon  
 	-  Organized hackathons for 1,000+ participants  
 	-  Global partnerships with Universities in Mexico 🇲🇽 and Hong Kong 🇭🇰
- - VP Development at Women in Science and Engineering, uOttawa Chapter
+ - VP Development (Web Development & Media Design) at Women in Science and Engineering, uOttawa Chapter
  - Software Sub-Team Lead for uOBionics, JMTS Bio-medical & mechanical competition team
+ - Active contributor to Dribble, Lottie Files, and Mozilla 
 
 ###
 
