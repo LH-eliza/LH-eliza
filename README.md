@@ -6,7 +6,7 @@ My name is Lauren! I'm a fourth-year software engineering student attending uOtt
 	-   Hosted events for 2,000+ participants, 40+ sponsors, 140k monthly impressions
 	-  Global partnerships with Universities in Mexico 🇲🇽 and Hong Kong 🇭🇰
  - VP Development (Web Development & Media Design) for Women in Science and Engineering, uOttawa Chapter
- - Software Sub-Team Lead for uOBionics, JMTS 2024-2026 Bio-medical & mechanical competition team
+ - Software Sub-Team Lead for uOBionics, JMTS 2024-2026 Biomedical & mechanical competition team
  - Active contributor for Dribble, Motion Graphics @Lottie Files, and Translation @Mozilla
  - Prev. Developer and Project Manager Intern @ Giatec Scientific Inc., Motorola Solutions, Solace, and the Government of Canada
 
